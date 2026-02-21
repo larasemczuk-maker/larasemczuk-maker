@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá! 👋
+Meu nome é Lara Emanueli Semczuk, tenho um sonho de me formar em psicologia e sou fluente em inglês.
 
 <!--
 **larasemczuk-maker/larasemczuk-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
